@@ -3,6 +3,7 @@
 This repository holds a collection of notebooks to plot FESOM2 and ICON ocean data (e.g. from the DYAMOND and NextGEMS projects).
 
 - **FESOM2_ICON_grids_easy_plot_and_interpolate.ipynb** - plot and interpolate FESOM2 and ICON data without complicated dependencies (except cartopy, that is optional).
+- **FESOM2_ICON_ploting_on_original_grid.ipynb** - plot small regions of FESOM2 and ICON on original unstructured triangular grid.
 - **unrotate_UV** - folder that contains examples and utilities to unrotate FESOM2 vector data, ony needed if you want to work with velocity components.
 - **arctic1km** - examples of how to work with Arctic 1km resolution FESOM2 data (Wang et al., 2020). Require pyfesom2 installation.
 
